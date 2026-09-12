@@ -1,0 +1,3 @@
+TXT working
+
+This is a plain text file used to test the text extractor.

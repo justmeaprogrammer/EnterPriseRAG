@@ -25,11 +25,15 @@ def smart_parser(file_path:str):
     
     else:
         return "Incompatible File Extension"
-    
-    
-    
         
 
+doc="/home/om/projects/EnterpriseRAG/sample/sample.docx"
+html="/home/om/projects/EnterpriseRAG/sample/sample.html"
+pdf="/home/om/projects/EnterpriseRAG/sample/sample.pdf"
+ppt="/home/om/projects/EnterpriseRAG/sample/sample.pptx"
+txt="/home/om/projects/EnterpriseRAG/sample/sample.txt"
+
+print(smart_parser("txt.obj"))
 
 
     
